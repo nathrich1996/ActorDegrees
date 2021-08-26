@@ -2,6 +2,6 @@
 Connect the Actors 
 
 
-Collaborators:
+Collaborators:<br>
 *
 * Matthew Camarena
