@@ -4,7 +4,7 @@ function startDegrees(){
     "method": "GET",
     "headers": {
         "x-rapidapi-host": "data-imdb1.p.rapidapi.com",
-        "x-rapidapi-key": "b871d38f13msh1e3945195ee01d1p1d8da7jsn2424d81f7ee1"
+        "x-rapidapi-key": ""
     }
 })
 .then(response => {
