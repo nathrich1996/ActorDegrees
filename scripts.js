@@ -1,5 +1,3 @@
-
-
 function startDegrees(){
 
     fetch("https://data-imdb1.p.rapidapi.com/actor/imdb_id_byName/Pacino/", {
